@@ -1,0 +1,10 @@
+<html> -> tag utama HTML yang menjelaskan bahwa dokumen ini merupakan HTML yang valid.
+<head> -> bagian dari HTML yang berisi informasi seputar dokumen, seperti judul, deskripsi, dan sumber.
+<body> -> bagian dari HTML yang menjelaskan bagaimana isi dari dokumen tersebut akan ditampilkan.
+<style> -> berisi CSS yang akan digunakan untuk mengatur tampilan dari dokumen tersebut.
+<script> -> berisi kode-kode JavaScript yang akan dijalankan ketika halaman web ini dimuat.
+<img> -> untuk memuatkan sebuah gambar.
+<div> -> untuk membuat sebuah bagian dari dokumen dengan sifat block.
+<span> -> untuk membuat sebuah bagian dari dokumen dengan sifat inline.
+<p> -> untuk membuat sebuah paragraf.
+<a> -> untuk membuat sebuah tautan.
